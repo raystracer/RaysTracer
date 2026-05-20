@@ -1,5 +1,5 @@
-## A software for ray tracing simulation with an intuitive GUI 👋
-
+# RaysTracer
+A software for ray tracing simulation with an intuitive GUI 👋
 <!--
 **raystracer/RaysTracer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
