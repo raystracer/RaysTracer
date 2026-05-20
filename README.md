@@ -1,5 +1,10 @@
 # RaysTracer
+
+<img src="./www/logo.png" alt="Logo" width="64"/>
+
 A software for ray tracing simulation with an intuitive GUI 👋
+
+[Learn more](https://raystracer.github.io/RaysTracer/) | [Download](https://github.com/raystracer/RaysTracer/releases/tag/latest)
 <!--
 **raystracer/RaysTracer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
